@@ -6,10 +6,10 @@ JUChat Android Demo app (built using Androidstudio) is a fully functional messag
 
 Simply Clone the project from Abrahamsiasy/ChatApp repository and open in Android Studio. Build the Demo App and it will be ready to Run on android studio 2.5 or more
 ### FEATURES
-Register new account 
-Login with existing account
-Logout
-Firebase authentication for login and register
+<p>Register new account </p>
+<p>Login with existing account</p>
+<p>Logout</p>
+<p>Firebase authentication for login and register</p>
 
 ```
 Give examples
