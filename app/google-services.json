@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335520530210",
+    "firebase_url": "https://internfinalchat.firebaseio.com",
+    "project_id": "internfinalchat",
+    "storage_bucket": "internfinalchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335520530210:android:a842140d66248fc9",
+        "android_client_info": {
+          "package_name": "com.arkham.internfinalchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335520530210-r3j7sn598ekge30r6249a0n2u7ebtklp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arkham.internfinalchat",
+            "certificate_hash": "27559d187e8547b5fbd297c971218657165a0225"
+          }
+        },
+        {
+          "client_id": "335520530210-442e8qr5dfg59o08c6qktc3b99di0us1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQSPuiDrBkBp3JideTiF_eClWuNl5iTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335520530210-442e8qr5dfg59o08c6qktc3b99di0us1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
