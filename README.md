@@ -1,14 +1,18 @@
-# Project Title
+# Project Title ==> JU CHATAPP
 
-One Paragraph of project description goes here
+Firebase based chat app
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### FEATURES
 
-What things you need to install the software and how to install them
+<h3> Login, Register<h3>
+  <ul> Register new account<ul>
+  <ul>Login with existing account<ul>
+  <ul<Logout<ul>
+<h4>Firebase authentication for login and register<h4>
 
 ```
 Give examples
