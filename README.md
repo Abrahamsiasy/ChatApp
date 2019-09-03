@@ -17,9 +17,8 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+add firebase dependency 
 
-Say what the step will be
 
 ```
     implementation 'com.google.firebase:firebase-auth:19.0.0' 
@@ -32,9 +31,12 @@ Say what the step will be
 And repeat
 
 ```
-until finished
-```
+    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+    implementation 'de.hdodenhof:circleimageview:3.0.0'
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    implementation 'com.google.android.material:material:1.0.0-beta01'
+    implementation 'id.zelory:compressor:2.1.0'
+    implementation 'de.hdodenhof:circleimageview:2.2.0'```
 
-End with an example of getting some data out of the system or using it for a little demo
 
 
