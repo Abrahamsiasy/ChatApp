@@ -28,8 +28,7 @@ add firebase dependency
     implementation 'com.google.firebase:firebase-core:17.1.0' 
 ```
 
-And repeat
-
+other dependencys
 ```
     implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
     implementation 'de.hdodenhof:circleimageview:3.0.0'
